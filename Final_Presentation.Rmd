@@ -1,0 +1,96 @@
+---
+title: "Final Presentation"
+author: "Author: Cindy Candelario Jose"
+date: "`r format(Sys.time(), '%B %d, %Y @ %I:%M %p')`"
+output: ioslides_presentation
+---
+
+```{r global options, include = FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  message = FALSE,
+  warning = FALSE,
+  comment = NA
+)
+```
+
+
+## Packages Used
+
+I used the tidyverse package to use the geom_bar and geom_boxplot functions to graph the data.
+
+```{r, echo = TRUE}
+library(tidyverse)
+```
+
+## Right to Work Membership Dataset
+
+The dataset used in the presentation is from the website, Kaggle (https://www.kaggle.com/datasets/brandonconrady/right-to-work-dataset). This dataset focuses on union information for each state. 
+
+**Variables in the Dataset:**
+
+* `StateName`: Name of State
+* `StateAbbrev`: State Name Abbreviation
+* `Region`: US Geographical Region
+* `RightToWork`: Right to work status
+* `Year`: Year for data
+
+##
+
+* `UnionMembership`: Percentage of union members in the workforce
+* `UnionRepresentation`: Percentage of workforce represented by unions
+* `Difference`: Difference between union representation and union membership
+
+```{r}
+union_data <- read_csv("RTW_Membership.csv")
+
+glimpse(union_data)
+```
+
+## Right to Work Membership Barplot
+
+```{r, fig.align = "center", fig.width = 7.5}
+ggplot(union_data, aes(x = UnionMembership, y = Region, fill = Region)) +
+  geom_bar(stat = "identity") +
+  scale_fill_brewer(palette = "YlGnBu") +
+  labs(title = "Percentage of Union Membership in US regions",
+       caption = "*data shown is taken from 2020-2021",
+       x = "Percentage of Workforce Union Members",
+       y = "Region in the US") 
+```
+
+
+
+## Right To Work Dataset
+
+The data in Right to Work dataset is from the website, Kaggle (https://www.kaggle.com/datasets/brandonconrady/right-to-work-dataset?select=RightToWork.csv). 
+
+**Variables in the Dataset:**
+
+* `StateName`: Name of State
+* `StateAbbrev`: State Name Abbreviation
+* `Region`: US Geographical Region
+* `RightToWork`: Right to work status
+
+##
+
+* `UnionMemberDensity2021`: Percent of union members in 2021
+* `PovertyRate2022`: Poverty rate for each state in 2022
+* `MedianHouseholdIncome2022`: Median household income in 2022
+
+```{r}
+job_data <- read_csv("RightToWork.csv")
+
+glimpse(job_data)
+```
+## Right to Work Boxplot
+
+```{r, fig.align = "center", fig.width = 7.5}
+ggplot(job_data, aes(x = Region, y = UnionMemberDensity2021, fill = Region)) +
+  geom_boxplot() +
+  scale_fill_brewer(palette = "RdPu") +
+  labs(title = "Percentage of Union Membership in 2021 in different US Regions", 
+       x = "Region",
+       y = "Union Membership")
+  
+```

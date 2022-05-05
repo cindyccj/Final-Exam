@@ -1,0 +1,103 @@
+StateName,StateAbbrev,Region,RightToWork,Year,UnionMembership,UnionRepresentation,Difference
+Alabama,AL,South,Yes,2020,8.0,8.7,0.7
+Alaska,AK,West,No,2020,17.7,19.5,1.8
+Arizona,AZ,West,Yes,2020,5.3,7.1,1.8
+Arkansas,AR,South,Yes,2020,4.7,5.9,1.2
+California,CA,West,No,2020,16.2,17.6,1.4
+Colorado,CO,West,No,2020,7.4,8.2,0.8
+Connecticut,CT,Northeast,No,2020,17.1,18.4,1.3
+Delaware,DE,South,No,2020,9.7,10.3,0.6
+District of Columbia,DC,South,No,2020,8.6,9.5,0.9
+Florida,FL,South,Yes,2020,6.4,7.9,1.5
+Georgia,GA,South,Yes,2020,4.6,6.5,1.9
+Hawaii,HI,West,No,2020,23.7,25.7,2.0
+Idaho,ID,West,Yes,2020,5.6,6.4,0.8
+Illinois,IL,Midwest,No,2020,14.3,15.2,0.9
+Indiana,IN,Midwest,Yes,2020,8.3,9.5,1.2
+Iowa,IA,Midwest,Yes,2020,6.6,9.1,2.5
+Kansas,KS,Midwest,Yes,2020,8.9,11.2,2.3
+Kentucky,KY,South,Yes,2020,7.5,9.4,1.9
+Louisiana,LA,South,Yes,2020,5.9,6.7,0.8
+Maine,ME,Northeast,No,2020,14.7,16.7,2.0
+Maryland,MD,South,No,2020,13.1,14.1,1.0
+Massachusetts,MA,Northeast,No,2020,12.0,12.8,0.8
+Michigan,MI,Midwest,Yes,2020,15.2,16.6,1.4
+Minnesota,MN,Midwest,No,2020,15.8,17.0,1.2
+Mississippi,MS,South,Yes,2020,7.1,8.3,1.2
+Missouri,MO,Midwest,Yes,2020,9.4,10.1,0.7
+Montana,MT,West,No,2020,12.0,13.0,1.0
+Nebraska,NE,Midwest,Yes,2020,9.6,10.5,0.9
+Nevada,NV,West,Yes,2020,13.4,15.4,2.0
+New Hampshire,NH,Northeast,No,2020,9.8,11.1,1.3
+New Jersey,NJ,Northeast,No,2020,16.1,17.8,1.7
+New Mexico,NM,West,No,2020,7.1,8.6,1.5
+New York,NY,Northeast,No,2020,22.0,23.6,1.6
+North Carolina,NC,South,Yes,2020,3.1,3.9,0.8
+North Dakota,ND,Midwest,Yes,2020,6.2,7.4,1.2
+Ohio,OH,Midwest,No,2020,13.2,14.2,1.0
+Oklahoma,OK,South,Yes,2020,6.0,7.6,1.6
+Oregon,OR,West,No,2020,16.2,17.3,1.1
+Pennsylvania,PA,Northeast,No,2020,13.5,14.6,1.1
+Rhode Island,RI,Northeast,No,2020,17.8,19.1,1.3
+South Carolina,SC,South,Yes,2020,2.9,3.8,0.9
+South Dakota,SD,Midwest,Yes,2020,4.3,5.5,1.2
+Tennessee,TN,South,Yes,2020,4.4,5.1,0.7
+Texas,TX,South,Yes,2020,4.9,6.0,1.1
+Utah,UT,West,Yes,2020,3.7,5.4,1.7
+Vermont,VT,Northeast,No,2020,11.8,13.8,2.0
+Virginia,VA,South,Yes,2020,4.4,5.4,1.0
+Washington,WA,West,No,2020,17.4,18.6,1.2
+West Virginia,WV,South,Yes,2020,10.7,11.3,0.6
+Wisconsin,WI,Midwest,Yes,2020,8.7,10.2,1.5
+Wyoming,WY,West,Yes,2020,7.6,9.3,1.7
+Alabama,AL,South,Yes,2021,5.9,6.9,1.0
+Alaska,AK,West,No,2021,15.8,17.2,1.4
+Arizona,AZ,West,Yes,2021,5.4,6.7,1.3
+Arkansas,AR,South,Yes,2021,3.9,4.4,0.5
+California,CA,West,No,2021,15.9,17.8,1.9
+Colorado,CO,West,No,2021,6.5,7.5,1.0
+Connecticut,CT,Northeast,No,2021,14.6,16.3,1.7
+Delaware,DE,South,No,2021,9.7,10.2,0.5
+District of Columbia,DC,South,No,2021,8.9,9.9,1.0
+Florida,FL,South,Yes,2021,5.2,6.1,0.9
+Georgia,GA,South,Yes,2021,4.8,5.8,1.0
+Hawaii,HI,West,No,2021,22.4,24.1,1.7
+Idaho,ID,West,Yes,2021,4.7,5.5,0.8
+Illinois,IL,Midwest,No,2021,13.9,15.2,1.3
+Indiana,IN,Midwest,Yes,2021,9.0,10.2,1.2
+Iowa,IA,Midwest,Yes,2021,6.5,8.3,1.8
+Kansas,KS,Midwest,Yes,2021,9.2,11.4,2.2
+Kentucky,KY,South,Yes,2021,7.2,9.8,2.6
+Louisiana,LA,South,Yes,2021,4.7,5.7,1.0
+Maine,ME,Northeast,No,2021,12.4,14.7,2.3
+Maryland,MD,South,No,2021,11.0,12.3,1.3
+Massachusetts,MA,Northeast,No,2021,12.6,13.6,1.0
+Michigan,MI,Midwest,Yes,2021,13.3,15.3,2.0
+Minnesota,MN,Midwest,No,2021,16.0,17.1,1.1
+Mississippi,MS,South,Yes,2021,5.5,6.9,1.4
+Missouri,MO,Midwest,Yes,2021,9.0,10.2,1.2
+Montana,MT,West,No,2021,11.2,12.9,1.7
+Nebraska,NE,Midwest,Yes,2021,6.8,8.0,1.2
+Nevada,NV,West,Yes,2021,12.2,14.1,1.9
+New Hampshire,NH,Northeast,No,2021,10.1,11.3,1.2
+New Jersey,NJ,Northeast,No,2021,16.2,17.9,1.7
+New Mexico,NM,West,No,2021,7.5,9.1,1.6
+New York,NY,Northeast,No,2021,22.2,24.1,1.9
+North Carolina,NC,South,Yes,2021,2.6,3.4,0.8
+North Dakota,ND,Midwest,Yes,2021,5.4,6.9,1.5
+Ohio,OH,Midwest,No,2021,12.0,13.0,1.0
+Oklahoma,OK,South,Yes,2021,5.6,6.8,1.2
+Oregon,OR,West,No,2021,17.8,18.8,1.0
+Pennsylvania,PA,Northeast,No,2021,12.9,13.6,0.7
+Rhode Island,RI,Northeast,No,2021,15.7,17.4,1.7
+South Carolina,SC,South,Yes,2021,1.7,2.0,0.3
+South Dakota,SD,Midwest,Yes,2021,4.0,5.0,1.0
+Tennessee,TN,South,Yes,2021,5.2,5.9,0.7
+Texas,TX,South,Yes,2021,3.8,4.7,0.9
+Utah,UT,West,Yes,2021,3.5,6.5,3.0
+Vermont,VT,Northeast,No,2021,12.3,14.2,1.9
+Virginia,VA,South,Yes,2021,4.8,6.5,1.7
+Washington,WA,West,No,2021,19.0,20.0,1.0
+West Virginia,WV,South,Yes,2021,9.6,10.5,0.9
+Wisconsin,WI,Midwest,Yes,2021,7.9,9.3,1.4
+Wyoming,WY,West,Yes,2021,5.7,6.9,1.2

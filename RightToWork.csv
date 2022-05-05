@@ -1,0 +1,52 @@
+StateName,StateAbbrev,Region,RightToWork,UnionMemberDensity2021,PovertyRate2022,MedianHouseholdIncome2022
+Alabama,AL,South,Yes,5.9,16.08,50536
+Alaska,AK,West,No,15.8,10.67,77640
+Arizona,AZ,West,Yes,5.4,13.66,58945
+Arkansas,AR,South,Yes,3.9,16.31,47597
+California,CA,West,No,15.9,12.98,75235
+Colorado,CO,West,No,6.5,9.49,72331
+Connecticut,CT,Northeast,No,14.6,9.70,78444
+Delaware,DE,South,No,9.7,10.96,68287
+District of Columbia,DC,South,No,8.9,15.00,92266
+Florida,FL,South,Yes,5.2,12.94,55660
+Georgia,GA,South,Yes,4.8,13.98,58700
+Hawaii,HI,West,No,22.4,9.32,81275
+Idaho,ID,West,Yes,4.7,11.67,55785
+Illinois,IL,Midwest,No,13.9,12.44,65886
+Indiana,IN,Midwest,Yes,9.0,12.69,56303
+Iowa,IA,Midwest,Yes,6.5,10.97,60523
+Kansas,KS,Midwest,Yes,9.2,11.57,59597
+Kentucky,KY,South,Yes,7.2,16.65,50589
+Louisiana,LA,South,Yes,4.7,18.88,49469
+Maine,ME,Northeast,No,12.4,11.26,57918
+Maryland,MD,South,No,11.0,8.89,84805
+Massachusetts,MA,Northeast,No,12.6,9.84,81215
+Michigan,MI,Midwest,Yes,13.3,13.99,57144
+Minnesota,MN,Midwest,No,16.0,9.17,71306
+Mississippi,MS,South,Yes,5.5,19.78,45081
+Missouri,MO,Midwest,Yes,9.0,13.10,55461
+Montana,MT,West,No,11.2,12.31,54970
+Nebraska,NE,Midwest,Yes,6.8,10.54,61439
+Nevada,NV,West,Yes,12.2,11.88,60365
+New Hampshire,NH,Northeast,No,10.1,7.16,76768
+New Jersey,NJ,Northeast,No,16.2,9.80,82545
+New Mexico,NM,West,No,7.5,18.59,49754
+New York,NY,Northeast,No,22.2,13.95,68486
+North Carolina,NC,South,Yes,2.6,13.58,54602
+North Dakota,ND,Midwest,Yes,5.4,10.10,64894
+Ohio,OH,Midwest,No,12.0,13.54,56602
+Oklahoma,OK,South,Yes,5.6,14.93,52919
+Oregon,OR,West,No,17.8,12.34,62818
+Pennsylvania,PA,Northeast,No,12.9,12.02,61744
+Rhode Island,RI,Northeast,No,15.7,11.84,67167
+South Carolina,SC,South,Yes,1.7,13.88,53199
+South Dakota,SD,Midwest,Yes,4.0,12.25,58275
+Tennessee,TN,South,Yes,5.2,14.24,53320
+Texas,TX,South,Yes,3.8,13.53,61874
+Utah,UT,West,Yes,3.5,8.88,71621
+Vermont,VT,Northeast,No,12.3,10.54,61973
+Virginia,VA,South,Yes,4.8,10.02,74222
+Washington,WA,West,No,19.0,9.95,73775
+West Virginia,WV,South,No,9.6,17.66,46711
+Wisconsin,WI,Midwest,Yes,7.9,10.89,61747
+Wyoming,WY,West,Yes,5.7,10.69,64049
